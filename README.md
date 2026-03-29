@@ -188,7 +188,6 @@ The difference is doing it on one GPU instead of thousands.
 - [ ] Tree reuse across moves (currently cleared each turn)
 - [ ] Curriculum learning — auto-increase KataGo strength as model improves
 - [ ] Evaluation games against KataGo at fixed strength to track Elo progress
-- [ ] Beat Jonathan at 6-dan
 
 ---
 
