@@ -1,6 +1,6 @@
 # KoMaster
 
-> A deep reinforcement learning Go engine trained to beat a 6-dan player — built from scratch using AlphaGo Zero-style architecture, KataGo as a training opponent, and a custom C-accelerated board engine.
+> An in-progress deep reinforcement learning Go engine trained to beat a 6-dan player — built from scratch using AlphaGo Zero-style architecture, KataGo as a training opponent, and a custom C-accelerated board engine. Reached 1~2 dan level.
 
 ---
 
