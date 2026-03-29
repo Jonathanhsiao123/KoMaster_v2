@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# C extension build artifacts
+*.so
+*.o
+go_board.cpython-*.so
+
+# Checkpoints and model weights (large files)
+checkpoints/
+*.pt
+*.pth
+
+# Datasets (large files)
+*.pkl
+*.zip
+*.bin
+
+# Training logs
+runs/
+
+# KataGo binary
+katago
+katago.exe
+
+# Environment
+venv*/
+miniconda3/
+site-packages/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+rl?/
